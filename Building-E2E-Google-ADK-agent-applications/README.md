@@ -1,4 +1,4 @@
-# 🤖 Building E2E Google ADK Agent Applications using CodeLabs
+# Building E2E Google ADK Agent Applications using CodeLabs
 
 Welcome to the **Building-E2E-Google-ADK-Agent-Applications** repository!  
 This project contains a collection of **end-to-end AI Agent applications** built using **Google’s Agent Development Kit (ADK)** and **CodeLabs**.
@@ -65,21 +65,3 @@ A smart shopping assistant capable of searching, recommending, and managing orde
 - **Google Cloud Platform (GCP)**
 
 ---
-
-## 👨‍💻 Author
-
-**Harshavardhan Gadila**  
-📍 *AI Developer & Research Enthusiast*  
-🔗 [GitHub Profile](https://github.com/harshavardhangadila)
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
-
----
-
-> “Build smarter, faster, and more adaptive AI agents with Google ADK.”  
-> — *Harshavardhan Gadila*
