@@ -46,9 +46,7 @@ graph TD
     B --> A;
 ```
 
-### High-Level Workflow
 
-![Agent Flow Diagram](1-flow.png)
 
 ## Component Agents
 
