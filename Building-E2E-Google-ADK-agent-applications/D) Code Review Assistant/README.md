@@ -2,10 +2,6 @@
 
 An intelligent, multi-agent code review system powered by Google ADK and Gemini models. This assistant provides comprehensive Python code analysis including structure evaluation, PEP 8 style checking, automated testing, personalized feedback with improvement tracking, and automated code fixing through iterative refinement.
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![ADK](https://img.shields.io/badge/Google%20ADK-1.15%2B-green)
-![Gemini](https://img.shields.io/badge/Gemini-2.5-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🌟 Features
 
@@ -471,5 +467,3 @@ gcloud logging read "resource.type=cloud_run_revision \
 - [Cloud Trace Documentation](https://cloud.google.com/trace/docs)
 
 ---
-
-Built with ❤️ using Google ADK and Gemini
