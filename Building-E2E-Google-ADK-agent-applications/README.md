@@ -5,8 +5,10 @@ This project contains a collection of **end-to-end AI Agent applications** built
 
 Each example demonstrates a unique use case, integrating ADK with real-world scenarios such as research, bug assistance, code review, and e-commerce automation.
 
----
 
+Youtube: [Demo](https://www.youtube.com/playlist?list=PLps8its2VEvnHIttyfYognjzs_VHo8NKJ)
+
+---
 ## 📁 Repository Structure
 
 ```
