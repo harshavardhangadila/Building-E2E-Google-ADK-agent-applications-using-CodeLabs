@@ -1,6 +1,6 @@
 # 🏀 Sports Shop Agent AI Assistant
 
-![Sports Shop Agent AI](7d9b5c1b10d1c654.png)
+<img width="960" height="465" alt="image" src="https://github.com/user-attachments/assets/bdec4ffd-eb38-4928-8303-a1887ecb8b9d" />
 
 ## 🧠 Introduction
 
@@ -11,8 +11,6 @@ This intelligent assistant helps users with common sports shop tasks through nat
 
 ---
 
-## ⚙️ What You'll Build
-
 Your Agent AI will be able to:
 
 - 🔍 Search for sports products using **natural language queries**  
@@ -20,30 +18,6 @@ Your Agent AI will be able to:
 - 🛒 **Place new orders**  
 - 📦 **Check existing order statuses**  
 - 🚚 **Update orders** with preferred delivery methods  
-
----
-
-## 🎯 What You'll Learn
-
-In this codelab, you’ll gain hands-on experience with:
-
-1. **Provisioning and populating** an **AlloyDB for PostgreSQL** database  
-2. Setting up **MCP Toolbox for Databases** with your AlloyDB instance  
-3. Designing and developing an **AI Agent** using the **Agent Development Kit (ADK)**  
-4. **Testing** your Agent and MCP Toolbox in a **cloud environment**  
-5. Leveraging **AlloyDB’s advanced query capabilities** for intelligent, contextual agent responses  
-
----
-
-## 🧰 What You'll Need
-
-Before you start, ensure you have:
-
-- ✅ A **Chrome web browser**  
-- ✅ A **Gmail account**  
-- ✅ A **Google Cloud Project** with **billing enabled**
-
-This codelab is suitable for developers of **all levels**, including **beginners**.
 
 ---
 
@@ -118,27 +92,9 @@ You can also deploy and test your Agent in a **Google Cloud** environment for pr
 
 ## 🧠 Technologies Used
 
-- **[Agent Development Kit (ADK)](https://developers.google.com/agent-dev-kit)**
-- **[MCP Toolbox for Databases](https://cloud.google.com/mcp-toolbox)**
-- **[AlloyDB for PostgreSQL](https://cloud.google.com/alloydb)**
-- **Node.js / TypeScript**
-- **Google Cloud Platform (GCP)**
+- Agent Development Kit (ADK)
+- MCP Toolbox for Databases]
+- Node.js / TypeScript**
+- Google Cloud Platform (GCP)**
 
 ---
-
-## 📄 License
-
-This project is licensed under the **Apache 2.0 License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## ❤️ Acknowledgments
-
-- Google Cloud Codelabs Team  
-- AlloyDB Engineering Group  
-- ADK Developer Community  
-
----
-
-> “Empower your applications with intelligent, context-aware agents — one query at a time.”  
-> — *Sports Shop Agent AI Team*
